@@ -13,11 +13,12 @@ Hi! I'm a first-year Math Ph.D. student at the [Univeristy of Toronto](https://w
 Before joining UofT, I spent five enriching undergraduate years at the [University of Waterloo](https://uwaterloo.ca/), where I studied Applied Math, Combinatorics & Optimization, and Computational Math. I am/was fortunate to work with (in chronological order):
 * [Prof. Stephen Vavasis](https://uwaterloo.ca/scholar/vavasis/home), [Prof. Giang Tran](https://uwaterloo.ca/scholar/g6tran/home), and [Prof. Anderson Ang](https://angms.science/) on continuous (and sparse) optimization for data science, and
 * [Prof. Christopher Batty](https://cs.uwaterloo.ca/~c2batty/) on fluid simulation.
+
 I was honored to be selected as one of the [Summer Geometry Initiative](https://sgi.mit.edu/) (SGI) Fellows, a part of the Class of 2022. Also, I was an undergraduate research assistant at the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/) (IQC).
 
 While not in front of my computer, I enjoy swimming, playing badminton, and I recently picked up figure skating. See you in Varsity Center!
 
-
+{%comment%}
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -58,4 +59,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-
+{%comment%}
