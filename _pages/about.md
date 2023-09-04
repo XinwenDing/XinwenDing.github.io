@@ -18,7 +18,7 @@ While not in front of my computer, I enjoy swimming, playing badminton, and I re
 
 <span style="color:red"> **News** </span>
 ======
-* 2023/03/23: I first ever paper is officially accepted by ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D), 2023.
+* 2023/03/23: My first ever paper is officially accepted by ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D), 2023.
 * 2023/03/14: Happy Pi Day! I will join UofT as a Math Ph.D. student this September.
 
 <!---
