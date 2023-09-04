@@ -15,7 +15,7 @@ Before joining UofT, I spent five enriching undergraduate years at the [Universi
 While not in front of my computer, I enjoy swimming, playing badminton, and I recently picked up figure skating. See you at the Varsity Center!
 
 **Contact:** xinwen.ding [at] mail.utoronto.ca
-## <span style="color:red"> **News** </span>
+### <span style="color:red"> **News** </span>
 * 2023/03/23: I first ever paper is officially accepted by ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D), 2023.
 * 2023/03/14: Happy Pi Day! I will join UofT as a Math Ph.D. student this September.
 
