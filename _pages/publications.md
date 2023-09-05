@@ -24,3 +24,4 @@ X. Ding & C. Batty. Proceedings of the ACM on Computer Graphics and Interactive 
 [[Supplementary]](https://xinwending.github.io/files/DifferentiableCurlNoise/Curl_Noise_Supplementary_Proof.pdf)
 [[Animation]](https://cs.uwaterloo.ca/~c2batty/papers/Ding2023/SupplementaryVideoLarge.mp4)
 [[Talks]](https://youtu.be/m8rggUd7cAQ?si=VIVtlgNJkq8ZxbDY&t=3555)
+[[Codes]](https://github.com/XinwenDing/DifferentiableCurlNoise)
