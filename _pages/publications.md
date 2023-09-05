@@ -17,7 +17,7 @@ author_profile: true
 
 ### Differentiable Curl-Noise: Boundary-Respecting Procedural Incompressible Flows Without Discontinuities
 X. Ding & C. Batty. Proceedings of the ACM on Computer Graphics and Interactive Techniques (Symposium on Interactive 3D Graphics and Games), 2023.\
-**Description:** A modification of the "Curl-Noise" method for procedural fluid flow in two dimensions that eliminates discontinuities and kinks in the flow around obstacles.\
+*Description:* A modification of the "Curl-Noise" method for procedural fluid flow in two dimensions that eliminates discontinuities and kinks in the flow around obstacles.\
 [[Paper(PDF)]](https://xinwending.github.io/files/DifferentiableCurlNoise/Curl_Noise_Paper.pdf)
 [[Supplementary]](https://xinwending.github.io/files/DifferentiableCurlNoise/Curl_Noise_Supplementary_Proof.pdf)
 [[Animation]](https://cs.uwaterloo.ca/~c2batty/papers/Ding2023/SupplementaryVideoLarge.mp4)
