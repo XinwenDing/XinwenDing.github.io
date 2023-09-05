@@ -20,5 +20,3 @@ redirect_from:
 
 <!--- Changes and Updates Start Here -->
 
-## Coming soon...
-(Default sample content remains)
