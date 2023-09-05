@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-I'll post my up-to-date CV here later :)
+I'll post my up-to-date CV here later.
