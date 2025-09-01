@@ -26,6 +26,5 @@ author_profile: true
 
 <!--- <span> **Service** </span> --->
 <h1 class="page__title">Service</h1>
-======
 * Course Planning Committe, Math Graduate Students' Association (MGSA), 2024 - 2025
 * Graduate Student Union (GSU) representative, Math Graduate Students' Association (MGSA), 2023 - 2024
