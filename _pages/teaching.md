@@ -24,7 +24,8 @@ author_profile: true
 **TA** MATH 235 - Linear Algebra 2 for Honours Mathematics, Fall 2021
 
 
-<span> **Service** </span>
+<!--- <span> **Service** </span> --->
+<h1 class="page__title">Service</h1>
 ======
-* Course Planning Committe, Math Graduate Students' Association (MGSA), 2024 - 2025 \
+* Course Planning Committe, Math Graduate Students' Association (MGSA), 2024 - 2025
 * Graduate Student Union (GSU) representative, Math Graduate Students' Association (MGSA), 2023 - 2024

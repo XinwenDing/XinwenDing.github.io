@@ -17,6 +17,7 @@ While not in front of my computer, I enjoy swimming, playing badminton, and I re
 
 <span style="color:red"> **News** </span>
 ======
+* 2025/09/01: Check out my lastest manuscript [here](https://arxiv.org/abs/2508.16767)!
 * 2025/01/08: I passed my qualification exam!
 * 2024/09: Excited to share that I was awarded the [Martin Shubik Graduate Award in Mathematics](https://defygravitycampaign.utoronto.ca/news-and-stories/martin-shubik-graduate-award-mathematics/).
 * 2023/03/23: My first paper is officially accepted by ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D), 2023.
