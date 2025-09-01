@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Xinwen Ding, a third-year Math Ph.D. candidate at the [University of Toronto](https://www.utoronto.ca/). My supervisor is [Adam Stinchcombe](https://scholar.google.ca/citations?hl=en&user=CRlA-sEAAAAJ&view_op=list_works&sortby=pubdate). My research interests are numerical analysis, scinetific machine learning, and mathematical optimization.
+Hi! I'm Xinwen Ding, a third-year Math Ph.D. candidate at the [University of Toronto](https://www.utoronto.ca/). My supervisor is [Adam Stinchcombe](https://scholar.google.ca/citations?hl=en&user=CRlA-sEAAAAJ&view_op=list_works&sortby=pubdate). My research interests are numerical analysis, scientific machine learning, and mathematical optimization.
 
 Before joining UofT, I spent five enriching undergraduate years at the [University of Waterloo](https://uwaterloo.ca/), where I studied Applied Math, Combinatorics & Optimization, and Computational Math. I am/was fortunate to be guided by [Prof. Stephen Vavasis](https://uwaterloo.ca/scholar/vavasis/home), [Prof. Giang Tran](https://uwaterloo.ca/scholar/g6tran/home), and [Prof. Anderson Ang](https://angms.science/) on continuous (and sparse) optimization for data science, and by [Prof. Christopher Batty](https://cs.uwaterloo.ca/~c2batty/) on fluid simulation. Apart from working with faculty members at UWaterloo, I was honored to be selected as one of the [Summer Geometry Initiative](https://sgi.mit.edu/) (SGI) Fellows, a part of the Class of 2022. Also, I was an undergraduate research assistant at the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/) (IQC).
 
 While not in front of my computer, I enjoy swimming, playing badminton, and I recently picked up figure skating. See you at the Varsity Center!
 
-**Contact:** xinwen.ding [at] mail.utoronto.ca
+**Contact:** xinwen [dot] ding [at] mail [dot] utoronto [dot] ca
 
 <span style="color:red"> **News** </span>
 ======
 * 2025/01/08: I passed my qualification exam!
-* 2024/09: Excited to share that I was awarded the [Martin Shubik Graduate Award in Mathematics](https://defygravitycampaign.utoronto.ca/news-and-stories/martin-shubik-graduate-award-mathematics/)
+* 2024/09: Excited to share that I was awarded the [Martin Shubik Graduate Award in Mathematics](https://defygravitycampaign.utoronto.ca/news-and-stories/martin-shubik-graduate-award-mathematics/).
 * 2023/03/23: My first paper is officially accepted by ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D), 2023.
 
 <!---
