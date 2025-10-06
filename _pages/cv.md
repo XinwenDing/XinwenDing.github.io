@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please check out my CV CV [here](https://xinwending.github.io/CV/website_CV.pdf).
+Please check out my CV [here](https://xinwending.github.io/CV/website_CV.pdf).
