@@ -26,5 +26,5 @@ author_profile: true
 
 ## University of Waterloo
 **Teaching Assistant** 
-* MATH 237 - Calculus 3 for Honours Mathematics, Winter 2022 \
+* MATH 237 - Calculus 3 for Honours Mathematics, Winter 2022
 * MATH 235 - Linear Algebra 2 for Honours Mathematics, Fall 2021
