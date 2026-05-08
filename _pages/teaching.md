@@ -14,13 +14,17 @@ author_profile: true
 <!--- Changes and Updates Start Here -->
 
 ### University of Toronto
-**Course Instructor** MAT244 (UTSG) - Introduction to Ordinary Differential Equations, Summer 2026 \
-**TA** APM 462 (UTSG) - Nonlinear Optimization, Winter 2026 \
-**TA** APM 236 (UTSG) - Applications of Linear Programming, Fall 2025 \
-**TA** MAT244 (UTSG) - Introduction to Ordinary Differential Equations, Fall 2024 & Winter 2025 \
-**TA** MAT133Y1Y (UTSG) - Calculus and Linear Algebra for Commerce, Fall 2023 & Winter 2024 \
-**TA** Math Learning Center - Winter 2025, Winter 2026
+**Course Instructor** 
+* MAT244 (UTSG) - Introduction to Ordinary Differential Equations, Summer 2026
+
+**Teaching Assistant** 
+* APM 462 (UTSG) - Nonlinear Optimization, Winter 2026
+* APM 236 (UTSG) - Applications of Linear Programming, Fall 2025
+* MAT244 (UTSG) - Introduction to Ordinary Differential Equations, Fall 2024 & Winter 2025
+* MAT133Y1Y (UTSG) - Calculus and Linear Algebra for Commerce, Fall 2023 & Winter 2024
+* Math Learning Center - Winter 2025, Winter 2026
 
 ### University of Waterloo
-**TA** MATH 237 - Calculus 3 for Honours Mathematics, Winter 2022 \
-**TA** MATH 235 - Linear Algebra 2 for Honours Mathematics, Fall 2021
+**Teaching Assistant** 
+* MATH 237 - Calculus 3 for Honours Mathematics, Winter 2022 \
+* MATH 235 - Linear Algebra 2 for Honours Mathematics, Fall 2021
