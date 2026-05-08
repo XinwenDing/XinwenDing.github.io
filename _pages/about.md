@@ -12,7 +12,7 @@ redirect_from:
 }
 
 [data-theme="dark"] .news-box {
-  background-color: #8a8a8a; /* dark mode */
+  background-color: #6a6a6a; /* dark mode */
 }
 </style>
 
