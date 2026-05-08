@@ -6,8 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+.news-box {
+  background-color: #f9f9f9; /* light mode */
+}
 
-Hi! I'm Xinwen Ding, a third-year Math Ph.D. candidate at the [University of Toronto](https://www.utoronto.ca/). My supervisor is [Adam Stinchcombe](https://scholar.google.ca/citations?hl=en&user=CRlA-sEAAAAJ&view_op=list_works&sortby=pubdate). My research interests are numerical analysis, scientific machine learning, and mathematical optimization.
+@media (prefers-color-scheme: dark) {
+  .news-box {
+    background-color: #8a8a8a; /* dark mode */
+  }
+}
+</style>
+
+Hi! I'm Xinwen Ding, a third-year Math Ph.D. candidate at the [University of Toronto](https://www.utoronto.ca/). My supervisor is [Adam Stinchcombe](https://scholar.google.ca/citations?hl=en&user=CRlA-sEAAAAJ&view_op=list_works&sortby=pubdate). My research interests are numerical analysis, scientific computing, scientific machine learning, and mathematical optimization.
 
 Before joining UofT, I spent five enriching undergraduate years at the [University of Waterloo](https://uwaterloo.ca/), where I studied Applied Math, Combinatorics & Optimization, and Computational Math. I was fortunate to be guided by [Prof. Stephen Vavasis](https://uwaterloo.ca/scholar/vavasis/home), [Prof. Giang Tran](https://uwaterloo.ca/scholar/g6tran/home), and [Prof. Anderson Ang](https://angms.science/) on continuous (and sparse) optimization for data science, and by [Prof. Christopher Batty](https://cs.uwaterloo.ca/~c2batty/) on fluid simulation. Apart from working with faculty members at UWaterloo, I was honored to be selected as one of the MIT [Summer Geometry Initiative](https://sgi.mit.edu/) (SGI) Fellows in 2022. Also, I was an undergraduate research assistant at the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/) (IQC).
 
@@ -26,7 +37,7 @@ While not in front of my computer, I enjoy swimming, playing badminton, and I re
 </div>
 -->
 
-<div style="border-left: 4px solid #cccccc; padding: 15px; margin: 20px 0; background-color: #f9f9f9; border-radius: 5px;">
+<div style="border-left: 4px solid #cccccc; padding: 15px; margin: 20px 0; border-radius: 5px;" class="news-box">
   <span style="color:inherit; font-size: 20px; font-weight: bold;"><strong>News</strong></span>
   <ul>
     <li>2026/05/01: I'm giving a talk at SONAD 2026.</li>
