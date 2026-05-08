@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching"
-permalink: /teaching_service/
+permalink: /teaching/
 author_profile: true
 ---
 
@@ -22,9 +22,3 @@ author_profile: true
 ### University of Waterloo
 **TA** MATH 237 - Calculus 3 for Honours Mathematics, Winter 2022 \
 **TA** MATH 235 - Linear Algebra 2 for Honours Mathematics, Fall 2021
-
-
-<!--- <span> **Service** </span> --->
-<h1 class="page__title">Service</h1>
-* Course Planning Committe, Math Graduate Students' Association (MGSA), 2024 - 2025
-* Graduate Student Union (GSU) representative, Math Graduate Students' Association (MGSA), 2023 - 2024
