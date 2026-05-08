@@ -15,12 +15,27 @@ While not in front of my computer, I enjoy swimming, playing badminton, and I re
 
 **Contact:** xinwen [dot] ding [at] mail [dot] utoronto [dot] ca
 
+<!-- Old News section - commented out, using new styled version below
 <span style="color:red"> **News** </span>
 ======
+* 2026/05/01: I'm giving a talk at SONAD 2026.
+* 2026/04/22: I am honored to announce that I have been awarded the NSERC CGRS-D scholarship as an international student.
+* 2025/12/06: I'm presenting my Walk-on-Interface poster at CMS 2025 Winter Meeting.
 * 2025/09/01: Check out my lastest manuscript [here](https://arxiv.org/abs/2508.16767)!
 * 2025/01/08: I passed my qualification exam!
-* 2024/09: Excited to share that I was awarded the [Martin Shubik Graduate Award in Mathematics](https://defygravitycampaign.utoronto.ca/news-and-stories/martin-shubik-graduate-award-mathematics/).
-* 2023/03/23: My first paper is officially accepted by ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D), 2023.
+</div>
+-->
+
+<div style="border-left: 4px solid #cccccc; padding: 15px; margin: 20px 0; background-color: #f9f9f9; border-radius: 5px;">
+  <span style="color:inherit; font-size: 20px; font-weight: bold;"><strong>News</strong></span>
+  <ul>
+    <li>2026/05/01: I'm giving a talk at SONAD 2026.</li>
+    <li>2026/04/22: I am honored to announce that I have been awarded the NSERC CGRS-D scholarship as an international student.</li>
+    <li>2025/12/06: I'm presenting my Walk-on-Interface poster at CMS 2025 Winter Meeting.</li>
+    <li>2025/09/01: Check out my lastest manuscript <a href="https://arxiv.org/abs/2508.16767">here</a>!</li>
+    <li>2025/01/08: I passed my qualification exam!</li>
+  </ul>
+</div>
 
 <!---
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
