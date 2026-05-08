@@ -11,10 +11,8 @@ redirect_from:
   background-color: #f9f9f9; /* light mode */
 }
 
-@media (prefers-color-scheme: dark) {
-  .news-box {
-    background-color: #8a8a8a; /* dark mode */
-  }
+[data-theme="dark"] .news-box {
+  background-color: #8a8a8a; /* dark mode */
 }
 </style>
 
