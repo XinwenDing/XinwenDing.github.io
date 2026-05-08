@@ -6,6 +6,6 @@ permalink: /talks/CMSw25-WoI
 venue: "2025 CMS Winter Meeting"
 date: 2025-12-06
 location: "Toronto, ON, Canada"
-no link: true # comment this out if need link
+no_link: true # comment this out if need link
 ---
 
