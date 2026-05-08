@@ -13,7 +13,7 @@ author_profile: true
 
 <!--- Changes and Updates Start Here -->
 
-### University of Toronto
+## University of Toronto
 **Course Instructor** 
 * MAT244 (UTSG) - Introduction to Ordinary Differential Equations, Summer 2026
 
@@ -24,7 +24,7 @@ author_profile: true
 * MAT133Y1Y (UTSG) - Calculus and Linear Algebra for Commerce, Fall 2023 & Winter 2024
 * Math Learning Center - Winter 2025, Winter 2026
 
-### University of Waterloo
+## University of Waterloo
 **Teaching Assistant** 
 * MATH 237 - Calculus 3 for Honours Mathematics, Winter 2022 \
 * MATH 235 - Linear Algebra 2 for Honours Mathematics, Fall 2021
