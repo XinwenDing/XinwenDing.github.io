@@ -38,14 +38,20 @@ While not in front of my computer, I enjoy swimming, playing badminton, and I re
 <div style="border-left: 4px solid #cccccc; padding: 15px; margin: 20px 0; border-radius: 5px;" class="news-box">
   <span style="color:inherit; font-size: 20px; font-weight: bold;"><strong>News</strong></span>
   <ul>
+    <li>2026/06/01: My paper <a href="https://www.sciencedirect.com/science/article/pii/S0021999126004584?__cf_chl_tk=d5zJCnbDx74t6jaN6Nheya0JkgZtG4fYb2D6rrAQPyo-1780676013-1.0.1.1-kfKG1D8HYH_ARrvou55gkguARzXl7TuTgt1B3vxETmk">Walk-on-Interfaces</a> has been accepted by JCP.</li> 
     <li>2026/05/01: I'm giving a talk at SONAD 2026.</li>
     <li>2026/04/22: I am honored to announce that I have been awarded the NSERC CGRS-D scholarship as an international student.</li>
     <li>2025/12/06: I'm presenting my Walk-on-Interface poster at CMS 2025 Winter Meeting.</li>
-    <li>2025/09/01: Check out my lastest manuscript <a href="https://arxiv.org/abs/2508.16767">here</a>!</li>
-    <li>2025/01/08: I passed my qualification exam!</li>
   </ul>
 </div>
 
+<!-- Archived news
+<li>2025/09/01: Check out my lastest manuscript <a href="https://arxiv.org/abs/2508.16767">here</a>!</li>
+<li>2025/01/08: I passed my qualification exam!</li>
+<li>2024/09: Excited to share that I was awarded the [Martin Shubik Graduate Award in Mathematics](https://defygravitycampaign.utoronto.ca/news-and-stories/martin-shubik-graduate-award-mathematics/)</li>
+<li>2023/03/23: My first paper is officially accepted by ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D), 2023.</li>
+<li>2023/03/14: Happy Pi Day! I will join UofT as a Math Ph.D. student in this September.</li>
+-->
 <!---
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 

@@ -14,10 +14,12 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
+![snapshot](https://xinwending.github.io/files/woi/snapshot.png){: style="float: right; height: 150px; margin-left: 20px;" }
 **Walk-on-Interfaces: A Monte Carlo Estimator for an Elliptic Interface Problem with Nonhomogeneous Flux Jump Conditions and a Neumann Boundary Condition**\
 X. Ding & A. R. Stinchcombe \
-[[preprint]](https://arxiv.org/abs/2508.16767)
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0021999126004584?__cf_chl_tk=d5zJCnbDx74t6jaN6Nheya0JkgZtG4fYb2D6rrAQPyo-1780676013-1.0.1.1-kfKG1D8HYH_ARrvou55gkguARzXl7TuTgt1B3vxETmk)
+[[Poster]](https://xinwending.github.io/files/woi/poster.pdf)
+[[Codes]](https://github.com/XinwenDing/Walk-on-Interfaces)
 
 
 ![snapshot](https://xinwending.github.io/files/DifferentiableCurlNoise/snapshot.png){: style="float: right; height: 150px; margin-left: 20px;" }
